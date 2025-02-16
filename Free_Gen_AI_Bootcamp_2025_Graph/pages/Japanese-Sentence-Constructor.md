@@ -1,4 +1,5 @@
 ### Instructions
+collapsed:: true
 	- Japanese Sentence Constructor
 	  
 	  **Difficulty:** Level 100
@@ -59,4 +60,5 @@
 	  
 	  |  |  |  |
 - [**Lesson**](https://app.exampro.co/student/journey/exp-genai)
+- [[Sentence-Constructor-Results]]
 -
