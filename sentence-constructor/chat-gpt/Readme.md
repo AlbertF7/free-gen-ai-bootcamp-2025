@@ -2,7 +2,7 @@
 
 ### Model Type
 
-GPT-4 Turbo
+Chat GPT Free Tier is using GPT-4 Turbo
 
 ### Parameter count 
 
