@@ -1,7 +1,11 @@
-## Grammar Components
-	- **Particles (助詞 - じょし, Joshi):** Small words that indicate the grammatical function of a word in a sentence. Examples include は (wa), が (ga), を (wo), に (ni), で (de), etc.
-	- **Topic Markers (話題の助詞 - わだいのじょし, Wadai no Joshi):** A subset of particles that indicate the topic of a sentence, such as は (wa) and も (mo).
-	- **Case Markers (格助詞 - かくじょし, Kaku Joshi):** Particles that indicate the grammatical case of a noun, such as が (ga) for the subject or を (wo) for the object.
-	-
+## Grammar Components| Category | Function | Examples |
+|----------|---------|---------|
+| **Particles (助詞)** | Define grammatical roles | は, が, を, に, で |
+| **Topic Markers (話題の助詞)** | Indicate the sentence’s topic | は, も |
+| **Case Markers (格助詞)** | Show subject, object, or location | が, を, に, へ |
+| **Conjunction Particles (接続助詞)** | Link phrases | が, けど, から |
+| **Ending Particles (終助詞)** | Add nuance to speech | ね, よ, か |
+| **Modifiers & Structure** | Connect words and indicate possession | の, と, や |
+| **Formality Markers** | Adjust politeness level | です, ます, だ |
 -
 -
