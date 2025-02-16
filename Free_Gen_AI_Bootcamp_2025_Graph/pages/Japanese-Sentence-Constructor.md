@@ -1,5 +1,4 @@
 ### Instructions
-collapsed:: true
 	- Japanese Sentence Constructor
 	  
 	  **Difficulty:** Level 100
