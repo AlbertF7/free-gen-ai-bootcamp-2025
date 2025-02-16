@@ -23,6 +23,10 @@ Language Instructions:
 - you must use the words and grammar that a Japanese Language Teacher would use
 - provide words in their dictionary form
 
+Sentence Structure Hint Instructions:
+- translate the japanese to romanji
+- include japanese in parenthesis
+ 
 
 Table Format:
 - only provide the nouns, verbs, adjectives, and adverbs
