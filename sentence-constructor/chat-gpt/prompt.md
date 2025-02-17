@@ -80,3 +80,5 @@ Here are examples of user input and assistant output
 
     Give it a try! I'll guide you if needed. 😊
 </example>
+
+Student Input: Hi, where is the nearest station?
