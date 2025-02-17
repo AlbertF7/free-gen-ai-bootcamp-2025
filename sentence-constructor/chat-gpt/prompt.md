@@ -28,6 +28,7 @@ Beginner, JLPT N5
 #### Sentence Structure Hint Instructions
 - translate the japanese to romanji
 - include japanese in parenthesis
+- Response should be: [Location] [Subject] [Verb], [Object] [Verb-Past]
  
 
 #### Table Format
