@@ -1,0 +1,3 @@
+- #TODO Assess Claude as an option to support the #GenAI-Architecture
+- #TODO Complete #GenAI-Architecture
+- #TODO Submit #Pre-Week-Homework
